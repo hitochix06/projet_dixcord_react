@@ -1,0 +1,14 @@
+.textArea {
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 1rem;
+  color: var(--text);
+  background-color: transparent;
+  outline: none;
+  border: none;
+  resize: none;
+}
+
+.textArea::placeholder {
+  color: var(--placeholder);
+}

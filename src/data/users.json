@@ -1,0 +1,10 @@
+[
+    { "name": "Sambeau", "online": false },
+    { "name": "Alexandre", "online": false },
+    { "name": "Pachara", "online": false },
+    { "name": "Ziad", "online": true },
+    { "name": "Torea", "online": false },
+    { "name": "Yassine", "online": true },
+    { "name": "Kylian", "online": false },
+    { "name": "Aziz", "online": false }
+]

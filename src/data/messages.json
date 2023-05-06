@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Sambeau",
+        "message": "Ça fait un bail"
+    },
+    {
+        "id": 2,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Ziad",
+        "message": "Vous allez bien ?"
+    },
+
+    {
+        "id": 3,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Pachara",
+        "message": "Yo"
+    },
+
+    {
+        "id": 4,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Yassine",
+        "message": "Salut"
+    },
+
+    {
+        "id": 5,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Aziz",
+        "message": "slt"
+    },
+
+    {
+        "id": 6,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Alexandre",
+        "message": "Quelqu'un peut m'envoyer le fichier ?"
+    },
+
+    {
+        "id": 7,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Torea",
+        "media": "file.png"
+    },
+
+    {
+        "id": 8,
+        "imgavatar": "../../../images/Avatar.svg",
+        "user": "Kylian",
+        "message": "Merci"
+    }
+]
